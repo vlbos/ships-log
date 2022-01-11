@@ -16,7 +16,6 @@
     "url": "https://github.com/ProjectOpenSea/ships-log.git"
   },
   "dependencies": {
-    "babel-eslint": "^7.2.3",
     "bignumber.js": "^8.0.1",
     "bootstrap": "^4.1.3",
     "eslint-config-airbnb": "^17.0.0",
